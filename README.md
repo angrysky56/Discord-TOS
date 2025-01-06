@@ -1,7 +1,5 @@
-# Discord-TOS
-TOS link for Discord Apps
 
-Terms of Service
+# Terms of Service
 Terms of service for the GeNNAiS and Team AI bots, this guides our clients on how they can use the bots.
 
 Conditions
@@ -24,3 +22,7 @@ The global chat must not be used for fraudulent activities or advertising withou
 Rate limits may be imposed on servers that cause overload in the global chat.
 The GeNNAiS and Team AI teams can delete any messages from global chat that are deemed inappropriate, even if they do not directly violate the rules.
 Additional basic chat rules will be outlined in the pinned rules embed and must be followed by all users in the global chat.
+
+#
+# Privacy Policy:
+Our bot does not store any user data. User inputs are processed in real-time by third-party AI models, including Anthropic's Claude and OpenAI's GPT-4. These models may retain data as per their respective privacy policies. For more information on how your data is handled, please refer to Anthropic's and OpenAI's privacy policies.
